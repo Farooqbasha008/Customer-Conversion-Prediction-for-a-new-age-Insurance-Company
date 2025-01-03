@@ -74,7 +74,7 @@ To use the model, you can either deploy it using the Streamlit app or run the Py
 
 ## Author
 
-This project was developed by [Your Name].
+This project was developed by Mohammed Farooq basha S.
 
 ## App Deployment
 
